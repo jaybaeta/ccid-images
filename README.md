@@ -1,3 +1,5 @@
+<img src="backgrounds/jpg/ccid-pacu-jawi-minangkabau.jpg">
+
 # Images made for Creative Commons Indonesia
 
 ## Background images
